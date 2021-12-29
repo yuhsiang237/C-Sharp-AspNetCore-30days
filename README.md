@@ -1,1 +1,35 @@
-# AspNetCore-30days
+# C-Sharp-AspNetCore-30days
+
+自己的鐵人賽自己辦。在這主要放一些範例、相關檔案。  
+紀錄C#的AspNetCore的MVC、API理論、實作過程。
+
+[[Day1] 學習C#的計畫與期望 - C#&AspNetCore](https://yuhsiang237.github.io/2021/09/20/C-MVC%E5%85%A5%E9%96%80/)  
+[[Day2] 什麼是MVC，有什麼好處 - C#&AspNetCore](https://yuhsiang237.github.io/2021/09/21/%E4%BB%80%E9%BA%BC%E6%98%AFMVC/)  
+[[Day3] 建立C# MVC專案 - C#&AspNetCore](https://yuhsiang237.github.io/2021/09/28/%E5%BB%BA%E7%AB%8BC-MVC%E5%B0%88%E6%A1%88/)  
+[[Day4] C# MVC的程式架構淺談 - C#&AspNetCore](https://yuhsiang237.github.io/2021/09/29/C-MVC%E7%9A%84%E7%A8%8B%E5%BC%8F%E6%9E%B6%E6%A7%8B%E6%B7%BA%E8%AB%87/)  
+[[Day5] C# MVC Model模型使用 - C#&AspNetCore](https://yuhsiang237.github.io/2021/09/30/C-MVC-Model%E6%A8%A1%E5%9E%8B%E4%BD%BF%E7%94%A8/)  
+[[Day6] C# MVC Model模型驗證 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/01/C-MVC-Model%E6%A8%A1%E5%9E%8B%E9%A9%97%E8%AD%89/)  
+[[Day7] C# MVC Model模型連結資料庫，使用Entity Framework - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/02/C-MVC-Model%E8%88%87%E8%B3%87%E6%96%99%E5%BA%AB%E9%80%A3%E7%B5%90/)  
+[[Day8] C# MVC Controller控制器使用 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/03/C-MVC-Controller%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BD%BF%E7%94%A8/)  
+[[Day9] C# MVC View使用 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/04/C-MVC-View%E4%BD%BF%E7%94%A8/)  
+[[Day10] C# MVC 檢視元件View Compoment使用- C#&AspNetCore](https://yuhsiang237.github.io/2021/10/05/C-MVC-%E6%AA%A2%E8%A6%96%E5%85%83%E4%BB%B6ViewCompoment%E4%BD%BF%E7%94%A8/)  
+[[Day11] C# MVC傳遞參數的方式 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/06/C-MVC%E5%82%B3%E9%81%9E%E5%8F%83%E6%95%B8%E7%9A%84%E6%96%B9%E5%BC%8F/)  
+[[Day12] C# MVC 驗證與授權，登入與登出 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/07/C-MVC-%E9%A9%97%E8%AD%89%E8%88%87%E6%8E%88%E6%AC%8A%E7%99%BB%E5%85%A5%E8%88%87%E7%99%BB%E5%87%BA/)  
+[[Day13] C# MVC 驗證與授權，新刪修查按鈕權限 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/08/C-MVC-%E9%A9%97%E8%AD%89%E8%88%87%E6%8E%88%E6%AC%8A%EF%BC%8C%E6%96%B0%E5%88%AA%E4%BF%AE%E6%9F%A5%E6%8C%89%E9%88%95%E6%AC%8A%E9%99%90/)  
+[[Day14] C# MVC LINQ基礎用法 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/10/C-MVC-LINQ%E5%9F%BA%E7%A4%8E%E7%94%A8%E6%B3%95/)  
+[[Day15] C# MVC LINQ常見用法 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/11/C-MVC-LINQ-%E5%B8%B8%E8%A6%8B%E7%94%A8%E6%B3%95/)  
+[[Day16] C# MVC Dapper用法與連結資料庫 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/12/C-MVC-Dapper%E7%94%A8%E6%B3%95/)  
+[[Day17] C# MVC 排序、篩選和分頁實作 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/14/C-MVC-%E6%8E%92%E5%BA%8F%E7%AF%A9%E9%81%B8%E5%92%8C%E5%88%86%E9%A0%81%E5%AF%A6%E4%BD%9C/)  
+[[Day18] C# MVC專案中撰寫API - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/15/C-MVC%E5%B0%88%E6%A1%88%E4%B8%AD%E6%92%B0%E5%AF%ABAPI/)  
+[[Day19] C# MVC RESTful API (上) RESTful 基礎知識 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/16/C-MVC-RESTful-API-%E4%B8%8A-RESTful-%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98/)  
+[[Day20] C# MVC RESTful API (中) 建立API專案 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/17/C-MVC-RESTful-API-%E4%B8%AD-%E5%BB%BA%E7%AB%8BAPI%E5%B0%88%E6%A1%88/)  
+[[Day21] C# MVC RESTful API (下) 實作RESTful API - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/18/C-MVC-RESTful-API-%E4%B8%8B-%E5%AF%A6%E4%BD%9CRESTful-API/)  
+[[Day22] C# MVC API版本控制 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/19/C-MVC-API%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/)  
+[[Day23] C# MVC Web API版本增加Swagger - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/26/C-MVC-Web-API%E5%A2%9E%E5%8A%A0Swagger/)  
+[[Day24] C# MVC API JWT Token驗證 (上) JWT基礎知識 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/27/C-MVC-API-Bearer-Token%E9%A9%97%E8%AD%89/)  
+[[Day25] C# MVC API JWT Token驗證 (下) JWT實作 - C#&AspNetCore](https://yuhsiang237.github.io/2021/10/28/C-MVC-API-Bearer-Token%E5%AF%A6%E4%BD%9C/)  
+[[Day26] C# MVC LINQ實作常見用法 - C#&AspNetCore](https://yuhsiang237.github.io/2021/12/27/C-MVC-LINQ%E5%AF%A6%E4%BD%9C%E5%B8%B8%E8%A6%8B%E7%94%A8%E6%B3%95/)  
+[[Day27] C# MVC 回傳獨立頁面或整體頁面 - C#&AspNetCore](https://yuhsiang237.github.io/2021/12/27/C-MVC-%E5%9B%9E%E5%82%B3%E7%8D%A8%E7%AB%8B%E9%A0%81%E9%9D%A2%E6%88%96%E6%95%B4%E9%AB%94%E9%A0%81%E9%9D%A2/)  
+[[Day28] C# MVC FluentValidation 好用的驗證格式套件 - C#&AspNetCore](https://yuhsiang237.github.io/2021/12/27/C-MVC-FluentValidation-%E5%A5%BD%E7%94%A8%E7%9A%84%E9%A9%97%E8%AD%89%E6%A0%BC%E5%BC%8F%E5%A5%97%E4%BB%B6/)  
+[[Day29] C# MVC 被使用在哪些地方 - C#&AspNetCore](https://yuhsiang237.github.io/2021/12/28/C-MVC-%E5%AF%A6%E9%9A%9B%E8%A2%AB%E4%BD%BF%E7%94%A8%E5%9C%A8%E9%82%A3%E4%BA%9B%E5%9C%B0%E6%96%B9/)  
+[[Day30] C# MVC 實際撰寫後之我的想法 - C#&AspNetCore](https://yuhsiang237.github.io/2021/12/28/C-MVC-%E5%AF%A6%E9%9A%9B%E6%92%B0%E5%AF%AB%E5%BE%8C%E4%B9%8B%E6%88%91%E7%9A%84%E6%83%B3%E6%B3%95/)  
