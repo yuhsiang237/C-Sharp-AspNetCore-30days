@@ -1,4 +1,4 @@
-# C-Sharp-AspNetCore-30days
+# C#-AspNetCore-30days
 
 自己的鐵人賽自己辦。在這主要放一些範例、相關檔案。  
 紀錄C#的AspNetCore的MVC、API理論、實作過程。
